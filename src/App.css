@@ -1,0 +1,59 @@
+.aa{
+    display: flex;
+   
+    display: flex;
+    justify-content: center;
+    
+}
+.bb{
+    display: flex;
+   
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    
+
+}
+.h{
+    font-size: 60px;
+}
+.c{
+    text-align: center;
+    margin-top: 0px;
+}
+#f{
+    text-align: center;
+}
+.place{
+    text-align: center;
+    
+}
+#im{
+    text-align: center;
+}
+#main{
+    background-image: url("https://pics.craiyon.com/2023-11-16/wHGM0abcSOWVL1p6KEsCZw.webp");
+    background-size: cover;
+    
+}
+.bt{
+    background-color: red;
+width: 70px;
+height: 30px;
+border-radius: 10%;
+}
+.bt:hover{
+    background-color: rgb(40, 38, 42);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+#hi{
+    text-align: center;
+    margin-top: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px red;
+
+}
